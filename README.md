@@ -1,6 +1,6 @@
 # Vedant's Portfolio
 
-![Portfolio Preview](./preview.png)  
+![Portfolio Preview](./Screenshot%202025-07-28%20212815.png)  
 *(Replace `./preview.png` with the actual image path in your repo)*
 
 ## About
