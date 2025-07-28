@@ -1,0 +1,25 @@
+.ThankYou {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .ThankYou p {
+    font-size: 18px;
+  }
+  
+  .ThankYou input {
+    width: 200px;
+    padding: 5px;
+    margin-top: 10px;
+  }
+  
+  .ThankYou h1 {
+    margin-top: 20px;
+    font-size: 32px;
+  }
+  
+  .ThankYou img {
+    margin-top: 20px;
+    max-width: 100%;
+  }
+  

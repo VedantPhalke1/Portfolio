@@ -1,0 +1,137 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .main1 {
+    display: flex;
+    height: 100vh;
+    background-image: url("C:\Users\Vedant Phalke\Desktop\accademics\programing\react\myapp\src\assets\image.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+  
+  #left1{
+    flex-basis: 60%;
+     justify-content: center;
+    /* align-items: center; */
+    display: flex; 
+    
+  }
+
+  #welcome{
+    color: rgb(242, 247, 248);
+    display: block;
+    margin-top: 200px;
+  }
+#welcome span{
+    color: rgb(70, 221, 237);
+}
+ 
+
+
+  .container1 {
+    width: 500px;
+    height: 500px;
+    background-color: rgb(255, 255, 255);
+    color: #171616;
+    display: flex;
+    flex-direction: column;
+    font-weight: 40;
+    justify-content: center;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    flex-basis: 40%;
+    margin-left: 450px ;
+  }
+  
+  .header {
+    text-align: center;
+    padding: 1px;
+    font-size: 20px;
+    margin-bottom: 13px;
+  }
+  
+  .text {
+    font-size: 30px;
+    font-weight: bold;
+    color: #181717;
+    padding-bottom: 20px;
+  }
+  
+  .underline {
+    width: 50px;
+    height: 2px;
+    background-color: #edd2d2;
+    margin: 10px auto;
+  }
+  
+  .inputs {
+    display: flex;
+    align-items: center;
+    padding: 0px;
+    margin-bottom: 20px;
+    width: 100%;
+  }
+  
+  .inputs img {
+    width: 30px;
+    margin-right: 10px;
+  }
+  
+  .inputs input {
+    flex: 1;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: rgba(13, 0, 0, 0.158);
+    color: rgba(0, 0, 0, 0.612);
+  }
+  
+  ::placeholder {
+    color: #171616;
+    font-weight: 40;
+  }
+  
+  .bttn {
+    display: block;
+    margin: 30px auto;
+    width: fit-content;
+    border: 2px solid rgb(81, 81, 81);
+    padding: 14px 50px;
+    border-radius: 6px;
+    text-decoration: none;
+    color: rgb(20, 18, 18);
+    font-size: 20px;
+    transition: background 0.5s;
+  }
+  
+  .bttn:hover {
+    background:rgb(174, 174, 174);
+  }
+  
+  .bttn.bttn2 {
+    background:rgb(215, 215, 215);
+  }
+  
+  @media screen and (max-width: 768px) {
+    .main1 {
+      flex-direction: column;
+    }
+    
+    .container1 {
+      width: 100%;
+      height: auto;
+      position: relative;
+      top: 0;
+      left: 0;
+      transform: translate(0, 0);
+    }
+  }

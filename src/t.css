@@ -1,0 +1,9 @@
+.imagest{
+    display: flex;
+}
+.imagest img{
+    width: 700Px;
+    height: 500px;
+    display: flex;
+    margin: 20px;
+}
