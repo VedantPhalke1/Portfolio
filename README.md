@@ -1,7 +1,7 @@
 # Vedant's Portfolio
 
 ![Portfolio Preview](./Screenshot%202025-07-28%20212815.png)  
-*(Replace `./preview.png` with the actual image path in your repo)*
+
 
 ## About
 This is my personal portfolio website built using the **MERN stack (MongoDB, Express.js, React.js, Node.js)**.  
