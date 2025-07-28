@@ -22,9 +22,9 @@ It showcases my **skills, projects, milestones, and achievements**, along with a
 - **CSS & JavaScript** – Styling and interactivity
 
 ## Live Demo
-[Click here to view the deployed portfolio](https://your-deployed-link.com)
+[Click here to view the deployed portfolio](https://vedantphalke.netlify.app/)
 
 ## Contact
 - **Email**: vedantphalke18@gmail.com  
 - **Phone**: +91 7774848240  
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/vedant-phalke-810521292/)
